@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls __cwd__content
+ls -la >> ls__cwd__content
